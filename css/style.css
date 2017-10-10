@@ -1,0 +1,10 @@
+body{
+	background-color: #263238;
+	color: #B2CCD6;
+	text-align: center;
+	font-family: "Open Sans", arial;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin: 0;
+}
